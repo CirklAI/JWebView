@@ -1,5 +1,5 @@
-#ifndef JWEBVIEW_LIBRARY_H
-#define JWEBVIEW_LIBRARY_H
+#ifndef JWEBVIEW_LIBRARY_HPP
+#define JWEBVIEW_LIBRARY_HPP
 
 #include <jni.h>
 
@@ -17,4 +17,4 @@ extern "C" {
 }
 #endif
 
-#endif //JWEBVIEW_LIBRARY_H
+#endif //JWEBVIEW_LIBRARY_HPP
