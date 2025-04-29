@@ -4,7 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/cmake-build-debug/_deps/webview-src" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/cli" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/cli/bin/Jauri" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/java_src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/landing" vcs="Git" />
   </component>
 </project>
