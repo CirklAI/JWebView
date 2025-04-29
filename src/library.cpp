@@ -6,7 +6,7 @@
 
 static bool webviewRunning = false;
 
-JNIEXPORT void JNICALL Java_Jauri_Webview_createWebview(
+JNIEXPORT void JNICALL Java_ai_cirkl_jauri_core_Jauri_createWebview(
     JNIEnv* env, jclass clazz, jstring title, jint width, jint height, jstring content) {
 
     const char* titleChars = env->GetStringUTFChars(title, nullptr);

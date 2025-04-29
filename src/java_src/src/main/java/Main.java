@@ -1,7 +1,7 @@
-import ai.cirkl.jauri.JWebview;
+import ai.cirkl.jauri.core.Jauri;
 
 public class Main {
     public static void main(String[] args) {
-        JWebview.launch("JauriDemo", 800, 600);
+        Jauri.launch("JauriDemo", 800, 600);
     }
 }

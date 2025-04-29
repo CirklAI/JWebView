@@ -7,10 +7,10 @@
 extern "C" {
 #endif
 
-    JNIEXPORT void JNICALL Java_Jauri_Webview_createWebview(
+JNIEXPORT void JNICALL Java_ai_cirkl_jauri_core_Jauri_createWebview(
         JNIEnv* env, jclass clazz, jstring title, jint width, jint height, jstring content);
 
-    JNIEXPORT jboolean JNICALL Java_Jauri_Webview_isWebviewRunning(
+    JNIEXPORT jboolean JNICALL Java_ai_cirkl_jauri_core_Jauri_isWebviewRunning(
         JNIEnv* env, jobject obj);
 
 #ifdef __cplusplus
