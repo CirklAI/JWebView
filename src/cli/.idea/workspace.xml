@@ -12,23 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b20ea12-027d-40e1-9663-8830098300d0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/files.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/input.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/mod.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/sh.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_src/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_src/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_src/.idea/runConfigurations/Demo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_src/.idea/runConfigurations/Demo.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_src/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_src/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_src/src/main/java/Jauri/Webview.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_src/src/main/java/ai/cirkl/jauri/JWebview.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_src/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_src/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +124,7 @@
       <option name="presentableId" value="Default" />
       <updated>1742018489995</updated>
       <workItem from="1742018491284" duration="11000" />
-      <workItem from="1745881051185" duration="1762000" />
+      <workItem from="1745881051185" duration="2202000" />
     </task>
     <servers />
   </component>
